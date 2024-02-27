@@ -1,5 +1,8 @@
-## Hi there 👋
-Eke publci repo vaade1
+# Eke Rätsep avalik githubi Repo. 
+## 2024. RIF-23
+
+🧠 Õpin hetkel...
+
 <!--
 
 **Here are some ideas to get you started:**
